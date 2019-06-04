@@ -1,6 +1,7 @@
-# multisite-lighthouse
+# lighthouse-multisite
 
-Uses Google's lighthouse (https://github.com/GoogleChrome/lighthouse) to build a set of reports from the URL list you pass into the configuration file.
+Uses Google's lighthouse (https://github.com/GoogleChrome/lighthouse) to build a set of reports from the URL list you pass into the configuration file and writes the results into one file.
+This project is a fork of this project https://github.com/sahava/multisite-lighthouse
 
 It's a Node.JS script, so you need Node / NPM installed on your machine.
 
